@@ -1,0 +1,15 @@
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\bin\Debug\FlightExecutor.exe.config
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\bin\Debug\FlightExecutor.exe
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\bin\Debug\FlightExecutor.pdb
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.csproj.AssemblyReference.cache
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.Properties.Resources.resources
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.csproj.GenerateResource.cache
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.csproj.CoreCompileInputs.cache
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.exe
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.pdb
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.FlightX.resources
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\bin\Debug\FastColoredTextBox.dll
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\bin\Debug\WeAreDevs_API.dll
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.csproj.CopyComplete
+C:\Users\qazws\source\repos\FlightExecutor\FlightExecutor\obj\Debug\FlightExecutor.ScriptHub.resources
